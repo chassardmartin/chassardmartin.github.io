@@ -1,8 +1,21 @@
-current directory: /home/murloc/perso/webpage/chassardmartin.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.9.1/ext/json/ext/generator
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20250108-12187-1fkm53.rb extconf.rb
-mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+current directory: /home/murloc/perso/webpage/chassardmartin.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.9.1/ext/json/ext/parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20250108-13270-acpckj.rb extconf.rb
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... no
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for rb_category_warn() in ruby.h... yes
+checking for strnlen() in string.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
 
-You might have to install separate package for the ruby development
-environment, ruby-dev or ruby-devel for example.
+current directory: /home/murloc/perso/webpage/chassardmartin.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.9.1/ext/json/ext/parser
+make DESTDIR\= clean
 
-extconf failed, exit code 1
+current directory: /home/murloc/perso/webpage/chassardmartin.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.9.1/ext/json/ext/parser
+make DESTDIR\=
+compiling parser.c
+linking shared-object json/ext/parser.so
+
+current directory: /home/murloc/perso/webpage/chassardmartin.github.io/vendor/bundle/ruby/3.0.0/gems/json-2.9.1/ext/json/ext/parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250108-13270-guode0/json/ext
