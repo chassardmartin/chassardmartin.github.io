@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Martin Chassard (pre PhD) 
 email: martin.chassard@enpc.fr
-description: >- # this means to ignore newlines until "baseurl:"
-  I'm a pre PhD student in CERMICS, école nationale des ponts et chaussées, working on 
-  machine learning and gradient descent algorithms for space-time PDEs. My supervisor is 
-  Virginie Ehrlacher. 
+description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chassardmartin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
