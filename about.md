@@ -10,6 +10,6 @@ My mail : [firstname].[lastname]@enpc.fr
 
 Office : ENPC, Coriolis B309 
 
-<img src="/images/me.png" alt="Myself" align="right>
+<img src="/images/me.png" alt="Myself" align="right">
 
 
