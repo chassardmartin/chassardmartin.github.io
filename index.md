@@ -4,7 +4,7 @@
 
 ---
 
-Here's Von Neumann's elephant, a wonderful example of the sparse reprensentation of a complex phenomenon using Fourier sums.  
+Here's Von Neumann's elephant, a wonderful example of the sparse representation of a complex phenomenon using Fourier sums.  
 
 <img src="/images/elephant.png" style="width:640px; height=480px">
 
