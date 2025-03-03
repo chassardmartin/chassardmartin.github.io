@@ -11,6 +11,6 @@ I'm a pre PhD student at [CERMICS](https://cermics-lab.enpc.fr), [École nationa
 
 My mail : [firstname].[lastname]@enpc.fr
 
-Office : École nationale des ponts et chaussées, Coriolis room B309
-
+Office :
+École nationale des ponts et chaussées, Coriolis room B309, 
 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne
