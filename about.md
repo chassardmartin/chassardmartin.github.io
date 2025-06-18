@@ -13,4 +13,4 @@ My mail : [firstname].[lastname][at]enpc.fr
 
 Office :
 École nationale des ponts et chaussées, Coriolis room B309, 
-6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne
+6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne 
