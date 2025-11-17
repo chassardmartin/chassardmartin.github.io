@@ -7,7 +7,9 @@ permalink: /about/
 
 <img src="/images/beach-me.jpeg" alt="Myself" align="right" style="width:225px; height=372px">
 
-I'm a pre PhD student at [CERMICS](https://cermics-lab.enpc.fr), [École nationale des ponts et chaussées](https://ecoledesponts.fr/), working on Wasserstein gradient flows for the numerical resolution of high-dimensional PDE problems. I am part of the Modeling, Analysis, Simulation team. My supervisor is [Virginie Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/).
+I'm a Ph.D student at [CERMICS](https://cermics-lab.enpc.fr), [École nationale des ponts et chaussées](https://ecoledesponts.fr/) part of the Institut Polytechinque de Paris (IPP), supervised by [Virginie Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/), [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/index.html) and [Damiano Lombardi](https://team.inria.fr/commedia/lombardi/). 
+
+The Ph.D is on high-dimensional data assimilation problems for which we try and develop new numerical methods using artifical neural networks to tackle the curse of dimensionality. The problems give rise to the study of nonlinear Hamilton-Jacobi-Bellman equations. 
 
 My mail : [firstname].[lastname][at]enpc.fr
 
