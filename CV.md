@@ -16,4 +16,7 @@ Sorbonne Université, Jussieu. Analysis, Numerical Analysis, Partial Differentia
 - **June-August 2023** : M1 internship in CERMICS, Ecole nationale des ponts et chaussées on semi-lagrangian schemes for the resolution of non-local conservation laws. 
 - **June-December 2022** : M1 internship at CEA Saclay on the analysis and compression of plasma simulation data using wavelets. 
 
-
+## Publications 
+### Pre-prints 
+- "Dynamic stress response kernels for dislocations and cracks: unified anisotropic Lagrangian formulation", Y.-P.Pellegrini, M. Josien and **MC**, 2026, arXiv preprint (https://arxiv.org/abs/2601.02124), submitted to 
+Journal of the Mechanics and Physics of Solids.
