@@ -18,5 +18,6 @@ Sorbonne Université, Jussieu. Analysis, Numerical Analysis, Partial Differentia
 
 ## Publications 
 ### Pre-prints 
-- "Dynamic stress response kernels for dislocations and cracks: unified anisotropic Lagrangian formulation", Y.-P.Pellegrini, M. Josien and **MC**, 2026, arXiv preprint (https://arxiv.org/abs/2601.02124), submitted to 
+- "Dynamic stress response kernels for dislocations and cracks: unified anisotropic Lagrangian formulation", Y.-P. Pellegrini, M. Josien and **MC**, 2026, arXiv preprint (https://arxiv.org/abs/2601.02124), submitted to 
 Journal of the Mechanics and Physics of Solids.
+
