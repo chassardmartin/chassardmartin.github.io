@@ -226,7 +226,7 @@ plugins:
   - jekyll-socials
   - jekyll-tabs
   - jekyll-terser
-  - jekyll-toc
+  # - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 
@@ -393,7 +393,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
-
+enable_toc: false
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
