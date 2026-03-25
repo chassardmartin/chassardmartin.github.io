@@ -13,10 +13,6 @@
   $max-content-width: {{ site.max_width | default:  "930px" }}
 );
 
-.profile img {
-  max-width: 200px;
-}
-
 /* Your project partials — convert these files to `@use "variables";`
    (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
 @use "themes";
