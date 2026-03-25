@@ -1,7 +1,9 @@
 ---
-layout: home 
+layout: page 
 title: Home 
 permalink: / 
+nav: false
+nav_order: 1
 ---
 
 Here's Von Neumann's elephant, a wonderful example of the sparse representation of a complex phenomenon using Fourier sums.  
