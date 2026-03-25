@@ -17,4 +17,7 @@ profile:
 
 I am a Ph.D student at [CERMICS](https://cermics-lab.enpc.fr), [École nationale des ponts et chaussées](https://ecoledesponts.fr/) part of the Institut Polytechnique de Paris (IPP), supervised by [Virginie Ehrlacher](https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/), [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/index.html) and [Damiano Lombardi](https://team.inria.fr/commedia/lombardi/). 
 
+<img src="assets/img/beach-me.jpeg" style="width:200px">
+
+
 The Ph.D is on high-dimensional data assimilation problems for which we try and develop new numerical methods using artifical neural networks to tackle the curse of dimensionality. The focus is set on deterministic filtering : the problems give rise to the study of Hamilton-Jacobi-Bellman equations and to the construction of observers for nonlinear dynamics, namely the Mortensen observer. 
