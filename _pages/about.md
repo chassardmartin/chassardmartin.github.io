@@ -6,8 +6,8 @@ nav: true
 nav_order: 2
 profile:
   align: right
-  image: beach-me.jpeg
-  image_circular: false
+  # image: beach-me.jpeg
+  # image_circular: false
   more_info: >
     <p>École nationale des ponts et chaussées</p>
     <p>6-8 avenue Blaise Pascal, Champs-sur-Marne, France</p>
