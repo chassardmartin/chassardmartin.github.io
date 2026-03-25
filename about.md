@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: About
 permalink: /about/
 
@@ -8,9 +8,9 @@ profile:
     image: /images/beach-me.jpeg
     image_circular: false 
     address: >
-    <p> École nationale des ponts et chaussées </p>
-    <p> 6-8 avenue Blaise Pascal, Champs-sur-Marne, France </p>
-    <p> Office, Coriolis building, room B309 </p>
+    <p>École nationale des ponts et chaussées</p>
+    <p>6-8 avenue Blaise Pascal, Champs-sur-Marne,France </p>
+    <p>Office, Coriolis building, room B309</p>
 ---
 
 
