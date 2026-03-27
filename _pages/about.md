@@ -26,3 +26,5 @@ Professional address :
   École nationale des ponts et chaussées;
   6-8 avenue Blaise Pascal, Champs-sur-Marne, France;
   Coriolis building, room B309
+
+Also once a week in CMAP, [École polytechnique](https://www.polytechnique.edu/) 
