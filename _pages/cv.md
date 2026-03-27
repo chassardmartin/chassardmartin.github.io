@@ -23,8 +23,9 @@ Sorbonne Université, Jussieu. Analysis, Numerical Analysis, Partial Differentia
 - "Dynamic stress response kernels for dislocations and cracks: unified anisotropic Lagrangian formulation", Y.-P. Pellegrini, M. Josien and **MC**, 2026, arXiv preprint (https://arxiv.org/abs/2601.02124), accepted in 
 Journal of the Mechanics and Physics of Solids. 
 
-## Conferences and talks 
-### Seminars 
+## Conferences and talks 
+
+### Seminars 
 - **4 April 2025**: Presentation at the PhD and postdoc days of CERMICS, Parent, Auvergne.  
 - **12 March 2026**: Seminar of young researchers, CERMICS. 
 
