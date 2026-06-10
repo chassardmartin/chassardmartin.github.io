@@ -26,11 +26,15 @@ Journal of the Mechanics and Physics of Solids.
 ### Conferences and talks 
 
 #### Seminars 
-- **4 April 2025**: Presentation at the PhD and postdoc days of CERMICS, Parent, Auvergne.  
-- **12 March 2026**: Seminar of young researchers, CERMICS. 
+- **4th April 2025**: Presentation at the PhD and postdoc days of CERMICS, Parent, Auvergne.  
+- **12th March 2026**: Seminar of young researchers, CERMICS. 
+
+#### Conference participation 
+- **25th-29th May 2026** : Mathematical Foundations of Machine Learning ([MFML](https://sites.google.com/unitn.it/mfml-2026/home?authuser=0)) Vason, Italy. 
+- **1st-5th June 2026** : [CANUM](https://canum2026.math.cnrs.fr/en/) contributed talk; Saint-Jacut-de-la-mer, Bretagne. 
 
 #### Conference organization 
-- **2-4 March 2026**: [CJC-MA 2026](https://cjcma2026.sciencesconf.org/), organizer, part of the scientific committee; École nationale des ponts et chaussées. 
+- **2nd-4th March 2026**: [CJC-MA 2026](https://cjcma2026.sciencesconf.org/), organizer, part of the scientific committee; École nationale des ponts et chaussées. 
 
 ### Teaching 
 - **2025-2026**: Analysis, first year couse, ENPC. 
