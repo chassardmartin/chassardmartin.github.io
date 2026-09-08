@@ -1,14 +1,8 @@
+# GitHub users and repositories displayed on a page using the `repositories`
+# include. Only rendered if a page actually uses it.
 github_users:
-  - torvalds
-  - alshedivat
+  - chassardmartin
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons

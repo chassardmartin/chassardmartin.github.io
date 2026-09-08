@@ -1,9 +1,4 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+# Maps the `abbr` field of a bibliography entry to a link and a badge color.
+"JMPS":
+  url: https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids
   color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
