@@ -1,2 +1,16 @@
+# Build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
 Gemfile.lock
 vendor/
+node_modules/
+
+# Plugin caches
+.tweet-cache/
+
+# Editor / OS
+.DS_Store
+*.swp
