@@ -14,7 +14,7 @@ profile:
     <p>École nationale des ponts et chaussées</p>
     <p>Coriolis building, room B309</p>
     <p>6-8 avenue Blaise Pascal</p>
-    <p>Champs-sur-Marne (77420) , France</p>
+    <p>Champs-sur-Marne (77420), France</p>
 
 selected_papers: true
 announcements:
